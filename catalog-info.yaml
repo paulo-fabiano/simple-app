@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: api-test-node
+  description: Simple node API.
+  annotations:
+    github.com/project-slug: paulo-fabiano/simple-app
+spec:
+  type: api-test
+  owner: paulofabianofilhoo@gmail.com
+  lifecycle: experimental
