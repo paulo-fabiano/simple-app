@@ -6,6 +6,6 @@ metadata:
   annotations:
     github.com/project-slug: paulo-fabiano/simple-app
 spec:
-  type: api-test
+  type: api
   owner: paulofabianofilhoo@gmail.com
-  lifecycle: experimental
+  lifecycle: teste
